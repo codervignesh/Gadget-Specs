@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/mr-anonymous-official/Gadget-Specs/blob/master/LICENSE)&emsp;&emsp;
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/codervignesh/Gadget-Specs/blob/master/LICENSE)&emsp;&emsp;
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)&emsp;&emsp;
 
 </div>
